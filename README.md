@@ -81,6 +81,24 @@ pip install -r requirements.txt
 4️⃣ Run the notebook
 jupyter notebook notebooks/01_data_exploration_and_modeling.ipynb
 
+5. Training Models (Optional)
+
+Run Random Forest:
+
+python src/train_rf.py
+
+
+Run LSTM model:
+
+python src/train_lstm.py
+
+6. Model Artifacts
+
+Trained models are saved in:
+
+/artifacts
+
+
 🚀 Future Enhancements
 
 Integrate real driving datasets (CARLA, AirSim, ApolloSim)
