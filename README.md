@@ -1,8 +1,7 @@
- 
+
 # 🚗 AI-Based Autonomous Navigation System  
 Predicting next-step steering commands using Machine Learning & Deep Learning
 
----
 
 ## 📌 Overview  
 This project builds an **AI-driven navigation decision system** that predicts the future steering angle of a vehicle/robot based on sensor data (speed, heading, yaw rate, accelerations, obstacle distance, etc.).
@@ -20,7 +19,7 @@ It demonstrates **end-to-end Data Science + ML engineering**:
 
 This project is an excellent demonstration of **industry-level skills** for self-driving, robotics, automation, and IoT analytics.
 
----
+
 
 ## 🧠 Key Features  
 - Synthetic realistic navigation dataset  
@@ -33,7 +32,7 @@ This project is an excellent demonstration of **industry-level skills** for self
 - Fully modular code architecture  
 - Saved model artifacts  
 
----
+
 
 ## 🛠 Tech Stack  
 - **Python 3.10+**  
@@ -44,7 +43,7 @@ This project is an excellent demonstration of **industry-level skills** for self
 - **Joblib** (model saving)  
 - **Jupyter Notebook / Colab**  
 
----
+
 
 ## 📦 Project Structure
 
